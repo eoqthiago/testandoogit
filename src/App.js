@@ -9,6 +9,8 @@ function App() {
         <p>
           Alterei isso (thiago) a
           aaaaaaaaaaaaaaaaaaaaaaaaaa
+          
+          E NOIS AQUIIIIIIII
         </p>
         <a
           className="App-link"
